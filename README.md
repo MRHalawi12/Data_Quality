@@ -1,4 +1,4 @@
-# Data_Quality
+# Data_Quality_Project
 
 Saya dimintai Tolong untuk proses dataset terlampir yang  disimpan dalam bentuk csv bernama 'https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/uncleaned_raw.csv'.
 
